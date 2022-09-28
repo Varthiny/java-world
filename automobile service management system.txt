@@ -1,0 +1,119 @@
+customer
+	1-customer name
+	2-customer id
+	3-customer type
+	4-customer dob
+	5-customer wedding anniversary
+	6-customer address
+	7-customer mobile
+	8-customer email
+
+employee
+	1-employee name
+	2-employee id
+	3-employee dob
+	4-employee address
+	5-employee mobile
+	6-employee email
+	6-employee role
+
+job card
+	1-job card no
+	2-job card id
+	3-vehicle no
+	4-date
+	5-date time in
+	6-date time out est
+	7-date time out actual
+
+job card complaints
+	1-complaint code
+	2-job code
+	3-job description
+	4-status
+	5-billing type
+	6-remarks
+
+job card spare parts
+	1-part number
+	2-part description
+	3-quantity
+	4-billing type(PAID,WARRENTY,AMC,FOC,FREE)
+	5-status
+
+vehicle information
+	1-chassis no
+	2-chassis color
+	3-product name
+	4-model
+	5-warranty expiry date
+	6-warranty expiry hours
+	7-vehicle registration no
+	8-dealer invoic no
+	9-vehicle type 
+	10-vehicle catrgory
+	11-vehicle status
+	12-registration n0
+	13-physical status
+
+service information
+	1-last service km
+	2-last service dealer
+	3-last service division
+	4-last service date
+	5-next service date
+	6-next service type
+
+cutomer complaints
+	1-customer voice
+	2-complaint code
+	3-complaint description
+	4-repeat compalaint
+
+service request
+	1-service request date
+	2-service type
+	3-chassis no
+	4-registration no
+	5-account
+	6-first name
+	7-last name
+	8-status
+
+payments
+	1-receipt no
+	2-receipt date
+	3-payment method
+	4-payment type
+	5-amount
+	6-cheque/dd/RO no/UTR no
+	7-branch name
+	8-bank name
+	9-deposited on bank
+	10-receipt no
+	11-order no
+	12-order type
+	13-account
+	14-contact name
+	15-payment balance amount
+	16-cancellation reason
+	17-remarks
+	18-payment status
+	19-payable to
+	20-payment channel
+
+report
+	1-report name
+	2-custom name
+	3-output type
+	4-report status
+events
+	1-event code
+	2-event name
+	3-event type(customer culturals,customer care day,deepavali & pongal celebration)
+	4-event status
+	5-event objective
+	6-planned start date
+	7-planned end date
+	8-event start date
+	9-actual end date
